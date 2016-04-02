@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AscPoject_mansoura_university_guide</string>
+    <string name="hello_world">مرحبا</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_the_destination">اختار وجهتك</string>
+    <string name="find_the_direction">ارسم الطريق</string>
+    <string name="faculty_of_computer_information">كليه الحاسبات و المعلومات</string>
+    <string name="faculty_of_law">كليه الحقوق</string>
+    <string name="faculty_of_Pharmacy">كليه الصيدله</string>
+    <string name="faculty_of_sciences">كليه العلوم </string>
+    <string name="faculty_of_Commerce">كليه التجاره</string>
+    <string name="faculty_of_engineering">كليه الهندسه</string>
+    <string name="faculty_of_Education">كليه التربيه</string>
+    <string name="faculty_of_Agriculture">كليه الزراعه</string>
+    <string name="faculty_of_medicine">كليه الطب</string>
+    <string name="current">موقعى الان</string>
+    <string name="compass">عيد ميلاد سعيد</string>
+    <string name="how_to_use">كيفيه  الاستخدام</string>
+    <string name="about">نبذه</string>
+    <string name="exit">خروج</string>
+    <string name="remove_shape">ازاله تحديد الجامعه</string>
+    <string name="add_shape">تحديد الجامعه</string>
+
+    <string name="about_message"> برمجه / D </string>
+
+    <string name="menu_header">اختر الكليه</string>
+
+    <string name="connection">لا يوجد اتصال بالانترنت</string>
+
+    <string name="how_to_use_message">قم باختيار وجهتك و صع علامه على الخريطه ثم اختار مكانك  الحالى و صع علامه على الخريطه ثم اضغط ارسم الطريق ,, يمكنك ايضا العثور عل ىوجهتك باستخدام البوصله</string>
+
+
+</resources>
